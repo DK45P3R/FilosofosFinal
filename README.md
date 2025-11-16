@@ -1,5 +1,4 @@
 # FilosofosFinal
-Projeto final
 Projeto Final Filosofos
 Relatório
 O problema do
@@ -10,6 +9,7 @@ dois garfos
 O impasse surge porque, se todos os filósofos pegarem simultaneamente seu garfo esquerdo, nenhum terá acesso ao garfo direito disponível. Todos ficam presos esperando — ocorre então um
 deadlock
 .
+/n
 O que gera o impasse?
 O impasse ocorre devido ao atendimento simultâneo de todas as
 4 condições de Coffman
